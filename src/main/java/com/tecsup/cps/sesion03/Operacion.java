@@ -1,3 +1,3 @@
-Public clas Operacion{
+Public class Operacion{
 
 }
